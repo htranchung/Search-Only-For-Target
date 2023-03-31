@@ -1,12 +1,12 @@
 # Target-Search-Application
 
 # Credits
-
+```
 Harrison Tran-Chung (GitHub: htranchung)
 Tanvir Khondakar (GitHub: tanvirkhon)
 Ricardo Cisneros (GitHub: ricardoci)
 Raymond Stack-Vanasse (GitHub: Bright-Verdant)
-
+```
 
 ![image](https://user-images.githubusercontent.com/60548511/229012870-5e29077d-e574-475b-81a5-dd2bcc942870.png)
 
