@@ -7,11 +7,7 @@ Tanvir Khondakar (GitHub: tanvirkhon)
 Ricardo Cisneros (GitHub: ricardoci)
 Raymond Stack-Vanasse (GitHub: Bright-Verdant)
 ```
-
-## Where You Can Find Us
-
-![image](https://user-images.githubusercontent.com/60548511/228999532-602b35f6-e0d3-41c0-9e47-90e8c27bdc9e.png)
-
+![image](https://user-images.githubusercontent.com/60548511/229012870-5e29077d-e574-475b-81a5-dd2bcc942870.png)
 
 
 ## User Story
